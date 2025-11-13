@@ -1,3 +1,4 @@
+
 # Disaster Tweets Classification Project
 
 This project predicts whether a tweet is about a real disaster or not.
@@ -7,3 +8,7 @@ This project predicts whether a tweet is about a real disaster or not.
 - **src/** — contains Python scripts for training and prediction
 - **notebooks/** — for experiments and exploration
 - **requirements.txt** — list of dependencies
+
+# NLP-Disaster-Tweets
+Classifying tweets as real disaster or not using NLP
+
